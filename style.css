@@ -1,0 +1,41 @@
+body{
+  font-family: 'Roboto Slab', serif;
+}
+
+h1{
+  font-size: 50px;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+.header{
+  color: tomato;
+}
+
+h3{
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+section{
+  display: flex;
+
+}
+
+.first-half {
+  width: 50%;
+  padding-left: 50px;
+}
+
+.first-half img{
+  width: 100%;
+}
+
+.anchor{
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-image: linear-gradient(tomato,orange);
+  color: white;
+  font-weight: 500;
+}
+
