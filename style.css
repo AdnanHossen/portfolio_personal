@@ -49,3 +49,9 @@ section{
 .para-sec{
   padding-right: 80px;
 }
+
+.right-sider{
+  background-image: url(./images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
