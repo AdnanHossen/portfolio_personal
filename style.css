@@ -1,5 +1,6 @@
 body{
   font-family: 'Roboto Slab', serif;
+  margin: 0;
 }
 
 h1{
@@ -18,7 +19,7 @@ h3{
 
 section{
   display: flex;
-
+  margin-bottom: 200px;
 }
 
 .first-half {
@@ -32,10 +33,19 @@ section{
 
 .anchor{
   text-decoration: none;
-  padding: 10px 20px;
+  padding: 6px 50px;
   border-radius: 10px;
   background-image: linear-gradient(tomato,orange);
   color: white;
   font-weight: 500;
 }
 
+.banner{
+  background-image: url(./images/top-banner.png);
+  background-repeat: no-repeat;
+
+}
+
+.para-sec{
+  padding-right: 80px;
+}
