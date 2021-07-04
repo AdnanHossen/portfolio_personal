@@ -37,6 +37,12 @@ h3{
   width: 100%;
 }
 
+.img-1{
+  width: 40%;
+  padding-right: 10px;
+}
+
+
 .anchor{
   text-decoration: none;
   padding: 6px 50px;
